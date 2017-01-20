@@ -1,8 +1,8 @@
 ﻿# Java-Reflection
 
 Date: Wednesday, December 14, 2016
-Author(s): Sandesh Nimhan
-e-mail(s): snimhan1@binghamton.edu
+Author: Sandesh Nimhan
+e-mail: snimhan1@binghamton.edu
 
 
 PURPOSE:
